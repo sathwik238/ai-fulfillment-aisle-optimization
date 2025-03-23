@@ -1,0 +1,11 @@
+pandas
+numpy
+dotenv
+python-dotenv
+langchain_openai
+langchain
+ipykernel
+openpyxl
+langchain_community
+smolagents
+litellm
